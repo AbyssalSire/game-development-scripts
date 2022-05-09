@@ -24,7 +24,17 @@ Make a small platform game level that has at least the following requirements:
 
 * The game must have a start screen with start and exit buttons.
 
-## Know issues
-* Floaty jumps
+## Additional features
 
-* Enemy sometimes gets stuck on corners due to not registering the colision with the wall
+Although not requested some extra features were added:
+
+* Pause menu (uses ESC to return to game and can quit the game);
+
+* Menu and game soundtracks (free, obtained via itch.io);
+
+## Know issues
+* Floaty jumps;
+
+* Enemy sometimes gets stuck on corners due to not registering the colision with the wall;
+
+* No win condition;
